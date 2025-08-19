@@ -1,14 +1,5 @@
 # Credit Risk Prediction App
 
-This Streamlit app predicts credit risk using machine learning models.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://roshan467-loanriskprediction.streamlit.app/)
 
-## Features
-- User-friendly interface to input loan and personal details
-- Shows loan approval prediction
-- Visualizes important data insights
-
-## Installation
-
-1. Clone the repo:
-```bash
-git clone https://github.com/roshan467/loanriskprediction.git
+Predict whether a loan will be approved or not based on user input.
