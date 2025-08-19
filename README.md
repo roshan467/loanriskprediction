@@ -1,10 +1,3 @@
-# Credit Risk Prediction App
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://roshan467-loanriskprediction.streamlit.app/)
-
-
-
-
 
 # Loan Risk Prediction
 
@@ -15,7 +8,7 @@ This repository contains a machine learning project for loan risk prediction wit
 ## Live Streamlit App
 
 Try the app live here:  
-👉 [Open Streamlit App](https://loanriskprediction-io5xekm2sjcoythrsvn33z.streamlit.app/)
+ [Open Streamlit App](https://loanriskprediction-io5xekm2sjcoythrsvn33z.streamlit.app/)
 
 ---
 
