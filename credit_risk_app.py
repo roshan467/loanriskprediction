@@ -30,7 +30,7 @@ if not os.path.exists(MODEL_PATH):
 else:
     model = joblib.load(MODEL_PATH)
 
-st.title("💳 Credit Risk Prediction for Loan Approval")
+st.title(" Credit Risk Prediction for Loan Approval")
 
 # Prepare input widgets
 X = df.drop('loan_status', axis=1)
@@ -56,5 +56,5 @@ for col in categorical_cols:
 # Predict
 if st.button("Predict"):
     prediction = model.predict(input_df)[0]
-    result = "✅ Approved" if prediction == 1 else "❌ Rejected"
+    result = " Approved" if prediction == 1 else " Rejected"
     st.success(f"**Loan Status:** {result}")
